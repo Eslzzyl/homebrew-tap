@@ -1,5 +1,5 @@
 cask "pixiv-swiftui" do
-  version "0.12.1"
+  version "v0.13.0"
 
   if Hardware::CPU.arm?
     sha256 "8c6c65ffb2417e4c38ba3075e6007ec7f9da29953a3006a0ce9d54d522b88b2e"
