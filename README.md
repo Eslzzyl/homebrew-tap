@@ -1,17 +1,24 @@
 # homebrew-tap
 
-Unofficial Homebrew tap for Pixiv-SwiftUI.
+Unofficial Homebrew tap for Eslzzyl's projects.
+
+## Packages
+
+| Package | Install |
+|---------|---------|
+| tidev | `brew install tidev` |
+| Pixiv-SwiftUI | `brew install --cask pixiv-swiftui` |
 
 ## Usage
 
 ```bash
 brew tap eslzzyl/tap
-brew install --cask pixiv-swiftui
 ```
+
+Then install any package listed above.
 
 ## Uninstall
 
 ```bash
-brew uninstall --cask pixiv-swiftui
 brew untap eslzzyl/tap
 ```
